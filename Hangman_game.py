@@ -1,7 +1,6 @@
 """
 Author:  Ivanloe L. Manuel
 Date written: 12/08/2025
-Assignment:   Module 7: Assignment - Python Development - Hangman Game
 Short Desc:   This program is a simple Hangman word-guessing game. The computer randomly selects a word from a list .
 The player has 6 attempts to guess the word by entering one letter at a time.
 """
@@ -54,4 +53,5 @@ def hangman():
 
 # Run the game
 if __name__ == "__main__":
+
     hangman()
