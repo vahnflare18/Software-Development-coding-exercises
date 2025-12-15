@@ -1,7 +1,6 @@
 """
 Author: Ivanloe L. Manuel
 Date written: 11/18/2025
-Assignment: Module 04 Practice Exercise 5-7
 Short Desc: This program reads a text file, extracts all unique words,
 sorts them alphabetically, and prints them. It demonstrates Python file handling,
 list operations, string processing, and the use of loops with membership checks to avoid duplicates.
@@ -26,4 +25,5 @@ def main():
     except FileNotFoundError:
         print("Error: File not found.")
 if __name__ == "__main__":
+
     main()
