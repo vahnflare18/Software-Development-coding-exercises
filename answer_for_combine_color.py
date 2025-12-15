@@ -1,7 +1,6 @@
 """
 Author: Ivanloe L. Manuel
 Date written: 11/02/2025
-Assignment: Module 02 Programming Assignment
 Short Description: This program prompts the user to enter two primary colors (red, blue, or yellow) and displays the results of that combination color.
 """
 color1 = input("Enter the first primary color (red, blue, or yellow): ")
@@ -19,4 +18,5 @@ else:
     elif ("red" in [color1, color2]) and ("yellow" in [color1, color2]):
         print("Mixing red and yellow gives you orange.")
     elif ("blue" in [color1, color2]) and ("yellow" in [color1, color2]):
+
         print("Mixing blue and yellow gives you green.")
