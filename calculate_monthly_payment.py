@@ -1,7 +1,6 @@
 """
 Author: Ivanloe L. Manuel
 Date written: 11/02/2025
-Assignment: Module 02 Practice Exercise 3-10
 Short Description: This program calculates and displays a monthly payment schedule for a TidBit Computer Store purchase plan.
 """
 #Program: tidbit.py
@@ -46,4 +45,5 @@ def main():
         month += 1
 
 if __name__ == "__main__":
+
     main()
