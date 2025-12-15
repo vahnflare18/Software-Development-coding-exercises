@@ -1,7 +1,6 @@
 """
 Author: Ivanloe L. Manuel
 Date written: 11/02/2025
-Assignment: Module 02 Practice Exercise 3-9
 Short Description: This program receives a series of numbers from the user, calculates their sum and average, and displays the results.
 """
 theSum = 0
@@ -26,4 +25,5 @@ if count > 0:
     average = theSum / count
     print("The average is", average)
 else:
+
     print("No numbers were entered, so an average cannot be calculated.")
