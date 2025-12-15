@@ -1,7 +1,6 @@
 """
 Author:  Ivanloe L. Manuel
 Date written: 12/14/2025
-Assignment:   Module 8: Assignment - Python Development - Pac-Man
 Short Desc:   This program is a simplified Pac‑Man–style game built with Pygame.
 It generates a grid‑based maze with walls and pellets, places Pac‑Man in the center, and spawns a
 ghost at a random free location.
@@ -184,4 +183,5 @@ def main():
     sys.exit()
 
 if __name__ == "__main__":
+
     main()
